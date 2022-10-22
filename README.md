@@ -7,6 +7,10 @@ PRESS the button to git push
 
 [EMO Button](https://www.amazon.co.jp/gp/product/B019F8DJSC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 
+## Required Library
+[https://github.com/T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)
+
+## How to connect
 Connect Switch A, one side to GND, the other to PIN 19
 
 Find Emo Keyboard on Bluetooth. With Mac OS, the keyboard recognition will be started, and just press EMO button once, and choose standard 101 keyboard.
