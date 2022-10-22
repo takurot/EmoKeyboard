@@ -1,3 +1,3 @@
 # EmoKeyboard
 This is a EMO keyboard.
-Press to PUSH
+PRESS the button to push repository
